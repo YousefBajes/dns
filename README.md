@@ -1,10 +1,10 @@
 1. Pull container
 2. Create Dockerfile
-3. Create dns.conf file
+3. Create dnsmasq.conf file
 4. Run Container
 5. Test
 
-Create a /opt/dns.conf file 
+Create a /opt/dnsmasq.conf file 
 
     #dnsmasq config, for a complete example, see: \
     #http://oss.segetech.com/intra/srv/dnsmasq.conf \
